@@ -19,6 +19,7 @@ git config --global user.email "1lostking@gmail.com"
 
 to check status git status git log
 
+<<<<<<< HEAD
 this change is made in new branch
 
 
@@ -45,5 +46,10 @@ changes made in unused line
 =======
 line 26 change
 >>>>>>> 0083c423a60b43f0b1e904e1b012650be32d2a06
+=======
+change made in version 2 folder
+
+
+>>>>>>> 265f3dbb60a87f8b2f90ac6953e952461a377af5
 
 
