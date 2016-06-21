@@ -9,3 +9,13 @@ git init to initialise
 
 git config --global core.editor  notepad ............to set the default editor
 
+git add filename.ext
+
+staging 
+
+git config --global user.name "saripakaprakash"
+
+git config --global user.email "1lostking@gmail.com"
+
+
+
