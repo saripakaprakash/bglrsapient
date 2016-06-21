@@ -1,0 +1,11 @@
+
+install git 
+
+mkdir create a dir 
+
+move to that dict
+
+git init to initialise
+
+git config --global core.editor  notepad ............to set the default editor
+
