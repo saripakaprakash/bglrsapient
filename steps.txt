@@ -23,6 +23,7 @@ this change is made in new branch
 
 
 
+<<<<<<< HEAD
 ,,,,,,
 
 
@@ -41,5 +42,8 @@ this change is made in new branch
 ,,
 
 changes made in unused line
+=======
+line 26 change
+>>>>>>> 0083c423a60b43f0b1e904e1b012650be32d2a06
 
 
